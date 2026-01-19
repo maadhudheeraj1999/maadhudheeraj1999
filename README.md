@@ -66,6 +66,7 @@ AWS (EC2, S3 – application hosting & storage)
 Azure (App-level service integration)
 
 
+
 🛠️ Projects
 🧾 Secure Invoice Management System
 
@@ -88,6 +89,7 @@ Java, Spring Boot, REST APIs, Hibernate, PostgreSQL, HTML, CSS, JavaScript
 📌 Category: Full Stack Java Development
 
 
+
 🌐 Frontend Applications
 
 To-Do List App – Task management with CRUD operations
@@ -97,6 +99,7 @@ Registration Form – Client-side validation and form handling
 Landing Page – Responsive UI with modern layouts
 
 Tech: HTML, CSS, JavaScript, React.js
+
 
 
 💡 What I Focus On
@@ -112,6 +115,7 @@ Developing responsive frontend interfaces
 Following best practices in security and architecture
 
 
+
 🤝 Let’s Connect
 
 💼 Open to Full Stack Java Developer opportunities
@@ -120,3 +124,12 @@ Following best practices in security and architecture
 
 ⭐ Feel free to explore my repositories and connect!
 
+
+
+#Let's Connect-
+
+⁠GitHub: 
+
+⁠LinkedIn: 
+
+Email: maadhudheeraj1999@gmail.com
